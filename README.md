@@ -1,6 +1,6 @@
 # MACHINE LEARNING SOUNDBAR ANALYSIS CLASSIFICATION PREDICTION 
 
-This project focuses on building a comprehensive machine learning pipeline for analyzing soundbar products. It integrates web scraping, data cleaning, feature engineering, unsupervised learning (clustering), and supervised learning (classification) to uncover insights and automate product categorization.
+This project focuses on building a comprehensive machine learning pipeline for analyzing soundbar products. It integrates web scraping, data cleaning, feature engineering, unsupervised learning (clustering) and supervised learning (classification) to uncover insights and automate product categorization.
 
 ---
 
@@ -8,7 +8,7 @@ This project focuses on building a comprehensive machine learning pipeline for a
 
 To develop a machine learning-driven system that:
 - Extracts product data from Amazon via web scraping
-- Performs feature extraction using NLP and regular expressions
+- Performs feature extraction using regular expressions
 - Applies unsupervised learning for clustering and market segmentation
 - Builds supervised models to predict product categories
 - Compares multiple classification algorithms and optimizes performance using hyperparameter tuning
@@ -33,15 +33,6 @@ To develop a machine learning-driven system that:
   - Random Forest
   - XGBoost
 - Hyperparameter tuning and performance comparison
-
----
-
-## Tech Stack
-
-- **Language**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, BeautifulSoup, Requests
-- **Database**: MySQL
-- **Tools**: Jupyter Notebook, VS Code
 
 ---
 
@@ -100,12 +91,6 @@ To develop a machine learning-driven system that:
 - Data scientists and ML practitioners
 - Consumer electronics analysts
 - E-commerce businesses for competitive benchmarking
-
----
-
-## License
-
-This project is for educational and research purposes only. Data usage must comply with Amazon's terms of service.
 
 ---
 
